@@ -1,0 +1,2 @@
+Android adb input 命令介绍:
+http://blog.csdn.net/soslinken/article/details/49587497
